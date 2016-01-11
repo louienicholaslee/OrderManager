@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "OrderManager": {
+      "applicationId": "dCeIPHdzBbVfjdLcYs4EQr39TmKJmC7tYOxwf4WO"
+    },
+    "_default": {
+      "link": "OrderManager"
+    }
+  }
+}
